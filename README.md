@@ -37,7 +37,8 @@ We can try out the sample example requests and response using this postman colle
 
 ## Implementing the specification
 
-To understanding how to implement the specification click [here](./docs/5_Implementation_Guide.md)
+To understanding how to implement the specification click [here](./docs/implementation-guide/1_Unified-Energy-Interface.md).
+
 
 ## Acknowledgements
 
